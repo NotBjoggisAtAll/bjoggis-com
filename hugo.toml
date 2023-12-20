@@ -1,0 +1,4 @@
+baseURL = 'https://www.jonasandersen.no/'
+languageCode = 'en-us'
+title = 'Jonas Andersen Blog'
+theme = 'ananke'
